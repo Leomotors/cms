@@ -195,6 +195,8 @@ setup(
         "cms.grading.languages": [
             "C++11 / g++=cms.grading.languages.cpp11_gpp:Cpp11Gpp",
             "C11 / gcc=cms.grading.languages.c11_gcc:C11Gcc",
+            "C++14 / g++=cms.grading.languages.cpp14_gpp:Cpp14Gpp",
+            "Brainfuck / C11=cms.grading.languages.brainfuck_c11:BrainfuckC11",
             "C# / Mono=cms.grading.languages.csharp_mono:CSharpMono",
             "Haskell / ghc=cms.grading.languages.haskell_ghc:HaskellGhc",
             "Java 1.4 / gcj=cms.grading.languages.java14_gcj:Java14Gcj",
