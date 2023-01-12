@@ -532,7 +532,7 @@ msgid "Contest Management System"
 msgstr "ระบบจัดการการแข่งขัน"
 
 msgid "is released under the"
-msgstr "ถูกปล่อยภายใต้"
+msgstr "ถูกเผยแพร่ภายใต้"
 
 msgid "GNU Affero General Public License"
 msgstr "ใบอนุญาต GNU Affero General Public"
@@ -574,7 +574,7 @@ msgid ""
 "Note that attempts to tamper with Contest Management System (such as probing"
 " the server with customized URLs) may be considered cheating and may lead to"
 " disqualification."
-msgstr "โปรแกรมว่าการพยายามงัดแงะกับระบบจัดการการแข่งขัน (เช่นตรวจสอบเซอร์เวอร์ด้วย URL ที่ถูกปรับแต่ง) อาจจะถูกพิจารณาว่าเป็นการทุจริตและนำไปสู่การตัดสิทธิ์ได้"
+msgstr "โปรดทราบว่าการพยายามงัดแงะกับระบบจัดการการแข่งขัน (เช่นตรวจสอบเซอร์เวอร์ด้วย URL ที่ถูกปรับแต่ง) อาจจะถูกพิจารณาว่าเป็นการทุจริตและนำไปสู่การตัดสิทธิ์ได้"
 
 msgid ""
 "If you encountered this error during normal usage, please notify the contest"
