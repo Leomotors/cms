@@ -499,10 +499,10 @@ msgid "Until contest ends:"
 msgstr "จนกว่าการแข่งขันจะสิ้นสุด:"
 
 msgid "Until analysis starts:"
-msgstr "จนกว่าโหมดวิเคราห์จะเริ่ม:"
+msgstr "จนกว่าโหมดวิเคราะห์จะเริ่ม:"
 
 msgid "Until analysis ends:"
-msgstr "จนกว่าโหมดวิเคราห์จะสิ้นสุด:"
+msgstr "จนกว่าโหมดวิเคราะห์จะสิ้นสุด:"
 
 msgid "Time left:"
 msgstr "เหลือเวลา:"
